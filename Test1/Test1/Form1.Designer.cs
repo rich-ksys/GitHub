@@ -46,9 +46,12 @@
             // 
             // listView1
             // 
+            this.listView1.BackColor = System.Drawing.Color.PaleGreen;
+            this.listView1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listView1.GridLines = true;
             this.listView1.Location = new System.Drawing.Point(128, 98);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(526, 297);
+            this.listView1.Size = new System.Drawing.Size(771, 355);
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
