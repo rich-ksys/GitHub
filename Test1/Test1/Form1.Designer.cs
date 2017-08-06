@@ -1,4 +1,4 @@
-﻿namespace Test1
+﻿namespace Test2
 {
     partial class Form1
     {
@@ -63,7 +63,7 @@
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.RefreshBtn);
             this.Name = "Form1";
-            this.Text = "Test RS 1";
+            this.Text = "Test RS 2";
             this.ResumeLayout(false);
 
         }
